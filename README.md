@@ -5,6 +5,7 @@
 ## Overview
 - python tkinterを使用し、コマンドプロンプトみたいな見た目のメモ帳を作製。
 - pyinstallerによりexe化。
+<br><a href="https://github.com/aohana-AO/CMDmemo/blob/main/tk1.exe">exeファイルの場所</a><br>※認証機関の証明書などは購入していないためアプリ未署名。
 
 ## Requirement
 - Windows10
